@@ -34,12 +34,12 @@ function Header() {
     <header className="sticky top-0 z-50 border-white/15 border-b bg-[rgb(var(--bg))]/80 backdrop-blur">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-6 py-4 md:px-12">
         <a
-          aria-label="Codebreaker home"
+          aria-label="Break the Code home"
           className="flex items-center gap-2 font-medium text-sm text-white tracking-tight transition hover:text-white/80"
           href="/"
         >
           <span className="inline-block h-2.5 w-2.5 rounded-sm bg-white" />
-          codebreaker
+          break the code
         </a>
         <nav className="hidden items-center gap-1 text-white/80 text-xs uppercase tracking-[0.18em] md:flex">
           <a className="rounded-full px-3 py-1.5 hover:text-white" href="/">
@@ -77,7 +77,7 @@ function Footer() {
           Harness · v0.1.0 · snapshot{" "}
           <span className="font-mono">2026-04-26</span>
         </span>
-        <span className="font-mono">codebreaker · /viz/harness</span>
+        <span className="font-mono">break the code · /viz/harness</span>
       </div>
     </footer>
   );

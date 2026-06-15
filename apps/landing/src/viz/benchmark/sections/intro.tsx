@@ -18,7 +18,7 @@ export function IntroSection() {
       </Reveal>
       <Reveal delayMs={160}>
         <p className="mt-8 max-w-4xl text-balance text-lg text-white/80 leading-relaxed md:text-xl">
-          Codebreaker is an autonomous agent that finds and reports software
+          Break the Code is an autonomous agent that finds and reports software
           vulnerabilities in the wild. Before we tuned a single prompt or wrote
           a single tool, we built the benchmark we wished existed: 138 real
           vulnerabilities, drawn from the GitHub Advisory Database, projected

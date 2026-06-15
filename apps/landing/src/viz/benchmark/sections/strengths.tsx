@@ -177,7 +177,7 @@ function ClosingCallout() {
             What we use it for
           </div>
           <h3 className="mt-3 font-semibold text-2xl text-white leading-tight md:text-3xl">
-            Every change to the Codebreaker harness is backed by our benchmark.
+            Every change to the Break the Code harness is backed by our benchmark.
           </h3>
         </div>
       </div>

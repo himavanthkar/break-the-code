@@ -444,7 +444,7 @@ export function SplashPage() {
               "0 2px 24px rgba(0, 0, 0, 0.85), 0 0 60px rgba(0, 0, 0, 0.65)",
           }}
         >
-          codebreaker
+          break the code
         </h1>
       </div>
       <nav

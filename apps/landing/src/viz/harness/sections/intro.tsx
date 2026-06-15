@@ -19,7 +19,7 @@ export function IntroSection() {
       </Reveal>
       <Reveal delayMs={160}>
         <p className="mt-8 max-w-4xl text-balance text-lg text-white/80 leading-relaxed md:text-xl">
-          Codebreaker&rsquo;s harness lives in two places: a single Cloudflare
+          Break the Code&rsquo;s harness lives in two places: a single Cloudflare
           Worker (
           <span className="font-mono text-white/90">
             codebreaker-control-plane

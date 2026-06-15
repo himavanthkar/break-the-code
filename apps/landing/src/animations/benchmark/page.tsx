@@ -66,12 +66,12 @@ function Header() {
     <header className="sticky top-0 z-50 border-white/15 border-b bg-[rgb(var(--bg))]/80 backdrop-blur">
       <div className="mx-auto flex w-full max-w-6xl items-center justify-between px-6 py-4 md:px-10">
         <a
-          aria-label="Codebreaker home"
+          aria-label="Break the Code home"
           className="flex items-center gap-2 font-medium text-sm text-white tracking-tight transition hover:text-white/80"
           href="/"
         >
           <span className="inline-block h-2.5 w-2.5 rounded-sm bg-white" />
-          codebreaker
+          break the code
         </a>
         <nav className="hidden items-center gap-1 text-white/80 text-xs uppercase tracking-[0.18em] md:flex">
           <a className="rounded-full px-3 py-1.5 hover:text-white" href="/">
@@ -106,7 +106,7 @@ function Footer() {
     <footer className="mt-16 border-white/15 border-t bg-[rgb(var(--bg-deep))]">
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-3 px-6 py-10 text-white/60 text-xs md:flex-row md:items-center md:justify-between md:px-10">
         <span>ECVEBench · curation engine animation · looped</span>
-        <span className="font-mono">codebreaker · /animations/benchmark</span>
+        <span className="font-mono">break the code · /animations/benchmark</span>
       </div>
     </footer>
   );
