@@ -4,9 +4,24 @@
 
 > Built for BuilderShip 2026 · Powered by Nebius · Runs on Cloudflare Workers + Modal
 
+**[🌐 Live Landing Page](https://landing-ebon-eta.vercel.app)** · **[▶️ Demo Video](#demo-video)** · **[📦 Repo](https://github.com/himavanthkar/break-the-code)**
+
 ---
 
 <!-- SCREENSHOT: dashboard overview showing benchmark runs list -->
+
+## Demo Video
+
+<!-- REPLACE THIS with your Loom/YouTube link after recording -->
+> 🎥 **Record a 2-3 min screen capture showing:**
+> 1. The landing page at https://landing-ebon-eta.vercel.app
+> 2. Creating a new benchmark run in the dashboard
+> 3. The agent analyzing code in real-time (the events timeline)
+> 4. The final score appearing (1.00)
+>
+> Upload to [Loom](https://loom.com) (free, instant link) and paste the URL here.
+
+---
 
 ## What It Does
 
